@@ -60,7 +60,7 @@
 #FAM-button {
     color: var(--accentClr);
     font-size: 18px;
-    background-color: var(--neutralDark);
+    background-color: #ebebeb;
     border-radius: 10px;
     position: fixed;
     width: 45px;
